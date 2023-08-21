@@ -1,0 +1,15 @@
+﻿  Blackjack.cpp
+C:\Users\mattg\Blackjack\Modern C++ Blackjack\Blackjack\Hand.h(20,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Dealer.cpp
+C:\Users\mattg\Blackjack\Modern C++ Blackjack\Blackjack\Hand.h(20,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mattg\Blackjack\Modern C++ Blackjack\Blackjack\Dealer.cpp(19,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Game.cpp
+C:\Users\mattg\Blackjack\Modern C++ Blackjack\Blackjack\Hand.h(20,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Hand.cpp
+C:\Users\mattg\Blackjack\Modern C++ Blackjack\Blackjack\Hand.h(20,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  player.cpp
+C:\Users\mattg\Blackjack\Modern C++ Blackjack\Blackjack\Hand.h(20,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\mattg\Blackjack\Modern C++ Blackjack\Blackjack\Game.cpp(21): warning C4715: 'SuitToText': not all control paths return a value
+C:\Users\mattg\Blackjack\Modern C++ Blackjack\Blackjack\Game.cpp(53): warning C4715: 'ValueToText': not all control paths return a value
+  Blackjack.vcxproj -> C:\Users\mattg\Blackjack\Modern C++ Blackjack\x64\Debug\Blackjack.exe
